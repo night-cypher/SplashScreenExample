@@ -25,7 +25,7 @@ public class SplashScreen extends Activity {
 
         spinner = (ProgressBar)findViewById(R.id.progressBar);
 
-
+//hi
         new Handler().postDelayed(new Runnable(){
             @Override
             public void run() {
